@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+}
+
+.navbar a {
+    float: center;
+    display: block;
+    color: #ffffff;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar a:hover {
+    background: #ffffff;
+    color: #000000;
+}
+    header{
+        background-color:#707070;
+        padding: 20px;
+    } 
+    h1 {
+        font-family: 'Anton', sans-serif;
+        color: 	#ffffff;
+        text-align: center;
+    }
+    
+    h2{
+        font-family: 'Anton', sans-serif;
+        background-color:#ffffff;
+        color:#000000;
+        padding: 5px;
+    }
+    h3{
+        font-family: 'Anton', sans-serif;
+        color:#000000;
+        background-color:#ffffff;
+        padding: 2px;
+    }
+    h4{
+        font-family: 'Anton', sans-serif;
+        color:#000000;
+    }
+
+    section{
+        margin: 10px;
+        background-color:#cccccc;
+        
+    }
+
+    p{
+        margin: 10px;
+        font-size:17px;
+    }
+
+    footer{
+        background-color:#000000;
+    }
+
+    .card-head{
+        background-color:#ffffff;
+
+    }
+
+    .card-body{
+        background-color:#cccccc;
+    }
+
+    .card-footer{
+        background-color:#000000;
+    }
+
+    .button {
+        color:#ffffff;
+    }
+
+    table, th, td {
+        border: 3px solid rgb(0, 0, 0);
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 7px;
+        text-align: left;    
+      }
+      footer{
+        color:#ffffff;
+        text-align: center;
+    }
+
+    code{
+        color: #000000;
+    }
